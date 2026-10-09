@@ -1,0 +1,14 @@
+/Users/shuvo/Programming/learn dotnet/Assignment-2/bin/Debug/net10.0/Assignment-2
+/Users/shuvo/Programming/learn dotnet/Assignment-2/bin/Debug/net10.0/Assignment-2.deps.json
+/Users/shuvo/Programming/learn dotnet/Assignment-2/bin/Debug/net10.0/Assignment-2.runtimeconfig.json
+/Users/shuvo/Programming/learn dotnet/Assignment-2/bin/Debug/net10.0/Assignment-2.dll
+/Users/shuvo/Programming/learn dotnet/Assignment-2/bin/Debug/net10.0/Assignment-2.pdb
+/Users/shuvo/Programming/learn dotnet/Assignment-2/obj/Debug/net10.0/Assignment-2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shuvo/Programming/learn dotnet/Assignment-2/obj/Debug/net10.0/Assignment-2.AssemblyInfoInputs.cache
+/Users/shuvo/Programming/learn dotnet/Assignment-2/obj/Debug/net10.0/Assignment-2.AssemblyInfo.cs
+/Users/shuvo/Programming/learn dotnet/Assignment-2/obj/Debug/net10.0/Assignment-2.csproj.CoreCompileInputs.cache
+/Users/shuvo/Programming/learn dotnet/Assignment-2/obj/Debug/net10.0/Assignment-2.dll
+/Users/shuvo/Programming/learn dotnet/Assignment-2/obj/Debug/net10.0/refint/Assignment-2.dll
+/Users/shuvo/Programming/learn dotnet/Assignment-2/obj/Debug/net10.0/Assignment-2.pdb
+/Users/shuvo/Programming/learn dotnet/Assignment-2/obj/Debug/net10.0/Assignment-2.genruntimeconfig.cache
+/Users/shuvo/Programming/learn dotnet/Assignment-2/obj/Debug/net10.0/ref/Assignment-2.dll

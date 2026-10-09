@@ -1,0 +1,14 @@
+/Users/shuvo/Programming/learn dotnet/typeCasting/bin/Debug/net10.0/typeCasting
+/Users/shuvo/Programming/learn dotnet/typeCasting/bin/Debug/net10.0/typeCasting.deps.json
+/Users/shuvo/Programming/learn dotnet/typeCasting/bin/Debug/net10.0/typeCasting.runtimeconfig.json
+/Users/shuvo/Programming/learn dotnet/typeCasting/bin/Debug/net10.0/typeCasting.dll
+/Users/shuvo/Programming/learn dotnet/typeCasting/bin/Debug/net10.0/typeCasting.pdb
+/Users/shuvo/Programming/learn dotnet/typeCasting/obj/Debug/net10.0/typeCasting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shuvo/Programming/learn dotnet/typeCasting/obj/Debug/net10.0/typeCasting.AssemblyInfoInputs.cache
+/Users/shuvo/Programming/learn dotnet/typeCasting/obj/Debug/net10.0/typeCasting.AssemblyInfo.cs
+/Users/shuvo/Programming/learn dotnet/typeCasting/obj/Debug/net10.0/typeCasting.csproj.CoreCompileInputs.cache
+/Users/shuvo/Programming/learn dotnet/typeCasting/obj/Debug/net10.0/typeCasting.dll
+/Users/shuvo/Programming/learn dotnet/typeCasting/obj/Debug/net10.0/refint/typeCasting.dll
+/Users/shuvo/Programming/learn dotnet/typeCasting/obj/Debug/net10.0/typeCasting.pdb
+/Users/shuvo/Programming/learn dotnet/typeCasting/obj/Debug/net10.0/typeCasting.genruntimeconfig.cache
+/Users/shuvo/Programming/learn dotnet/typeCasting/obj/Debug/net10.0/ref/typeCasting.dll

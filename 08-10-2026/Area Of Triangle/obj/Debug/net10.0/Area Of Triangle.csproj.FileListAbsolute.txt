@@ -1,0 +1,14 @@
+/Users/shuvo/Programming/learn dotnet/Area Of Triangle/bin/Debug/net10.0/Area Of Triangle
+/Users/shuvo/Programming/learn dotnet/Area Of Triangle/bin/Debug/net10.0/Area Of Triangle.deps.json
+/Users/shuvo/Programming/learn dotnet/Area Of Triangle/bin/Debug/net10.0/Area Of Triangle.runtimeconfig.json
+/Users/shuvo/Programming/learn dotnet/Area Of Triangle/bin/Debug/net10.0/Area Of Triangle.dll
+/Users/shuvo/Programming/learn dotnet/Area Of Triangle/bin/Debug/net10.0/Area Of Triangle.pdb
+/Users/shuvo/Programming/learn dotnet/Area Of Triangle/obj/Debug/net10.0/Area Of Triangle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shuvo/Programming/learn dotnet/Area Of Triangle/obj/Debug/net10.0/Area Of Triangle.AssemblyInfoInputs.cache
+/Users/shuvo/Programming/learn dotnet/Area Of Triangle/obj/Debug/net10.0/Area Of Triangle.AssemblyInfo.cs
+/Users/shuvo/Programming/learn dotnet/Area Of Triangle/obj/Debug/net10.0/Area Of Triangle.csproj.CoreCompileInputs.cache
+/Users/shuvo/Programming/learn dotnet/Area Of Triangle/obj/Debug/net10.0/Area Of Triangle.dll
+/Users/shuvo/Programming/learn dotnet/Area Of Triangle/obj/Debug/net10.0/refint/Area Of Triangle.dll
+/Users/shuvo/Programming/learn dotnet/Area Of Triangle/obj/Debug/net10.0/Area Of Triangle.pdb
+/Users/shuvo/Programming/learn dotnet/Area Of Triangle/obj/Debug/net10.0/Area Of Triangle.genruntimeconfig.cache
+/Users/shuvo/Programming/learn dotnet/Area Of Triangle/obj/Debug/net10.0/ref/Area Of Triangle.dll
