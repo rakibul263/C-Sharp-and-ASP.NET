@@ -1,0 +1,15 @@
+/Users/shuvo/Programming/learn dotnet/10-10-2026/Method/bin/Debug/net10.0/Method
+/Users/shuvo/Programming/learn dotnet/10-10-2026/Method/bin/Debug/net10.0/Method.deps.json
+/Users/shuvo/Programming/learn dotnet/10-10-2026/Method/bin/Debug/net10.0/Method.runtimeconfig.json
+/Users/shuvo/Programming/learn dotnet/10-10-2026/Method/bin/Debug/net10.0/Method.dll
+/Users/shuvo/Programming/learn dotnet/10-10-2026/Method/bin/Debug/net10.0/Method.pdb
+/Users/shuvo/Programming/learn dotnet/10-10-2026/Method/obj/Debug/net10.0/Method.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shuvo/Programming/learn dotnet/10-10-2026/Method/obj/Debug/net10.0/Method.AssemblyInfoInputs.cache
+/Users/shuvo/Programming/learn dotnet/10-10-2026/Method/obj/Debug/net10.0/Method.AssemblyInfo.cs
+/Users/shuvo/Programming/learn dotnet/10-10-2026/Method/obj/Debug/net10.0/Method.csproj.CoreCompileInputs.cache
+/Users/shuvo/Programming/learn dotnet/10-10-2026/Method/obj/Debug/net10.0/Method.sourcelink.json
+/Users/shuvo/Programming/learn dotnet/10-10-2026/Method/obj/Debug/net10.0/Method.dll
+/Users/shuvo/Programming/learn dotnet/10-10-2026/Method/obj/Debug/net10.0/refint/Method.dll
+/Users/shuvo/Programming/learn dotnet/10-10-2026/Method/obj/Debug/net10.0/Method.pdb
+/Users/shuvo/Programming/learn dotnet/10-10-2026/Method/obj/Debug/net10.0/Method.genruntimeconfig.cache
+/Users/shuvo/Programming/learn dotnet/10-10-2026/Method/obj/Debug/net10.0/ref/Method.dll
